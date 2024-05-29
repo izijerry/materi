@@ -1,0 +1,1 @@
+data = "hai nama saya ucup"

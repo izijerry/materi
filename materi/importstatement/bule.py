@@ -1,0 +1,1 @@
+data = "bule gantenggggggg abiezzzzzzzzz"
